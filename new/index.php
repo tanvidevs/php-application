@@ -1,1 +1,2 @@
-iwe
+!html
+document type
